@@ -496,6 +496,7 @@
 				0414DB5C1CE3141500C29173 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0414DB5D1CE3141500C29173 /* Build configuration list for PBXNativeTarget "testCameraTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +505,7 @@
 				0414DB5F1CE3141500C29173 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0414DB601CE3141500C29173 /* Build configuration list for PBXNativeTarget "testCameraUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +514,7 @@
 				0414DB621CE3141500C29173 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
