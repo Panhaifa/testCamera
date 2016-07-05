@@ -120,6 +120,9 @@
         
       
         
+        
+
+        
         //判断是否保存成功
         NSFileManager *fileManager = [NSFileManager defaultManager];
         if ([fileManager fileExistsAtPath:imagePath]==YES) {
